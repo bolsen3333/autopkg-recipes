@@ -3,18 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest version of Avira Free Mac Security.</string>
+	<string>Downloads the latest version of zoom.us.</string>
 	<key>Identifier</key>
-	<string>com.whistic.download.AviraFreeMacSecurity</string>
+	<string>com.whistic.download.zoom.us</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>Avira Free Mac Security</string>
+		<string>Zoom.us</string>
 		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
     <string>true</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.6.0</string>
+	<string>4.5.0</string>
 	<key>Process</key>
 	<array>
 		<dict>
